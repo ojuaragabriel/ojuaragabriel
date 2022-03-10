@@ -1,7 +1,5 @@
 ## Hello, eu sou o Gabriel Araujo.
 
-- 🔭 Studying computer science
-- 🌱 Full stack in progress
 - <div align="center">
   <a href="https://github.com/ojuaragabriel">
   <img height="124em" src="https://github-readme-stats.vercel.app/api?username=ojuaragabriel&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
