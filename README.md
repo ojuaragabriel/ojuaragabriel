@@ -1,4 +1,7 @@
-## Hello, eu sou o Gabriel Araujo.
+<h1 align="center">
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+Hello I'm Gabriel Araujo  <img src="https://media.giphy.com/media/em3xOyQhozmJfDlGRB/giphy.gif" width="50">
+</h1>
 
 - <div align="center">
   <a href="https://github.com/ojuaragabriel">
