@@ -29,6 +29,6 @@ Hello I'm Gabriel Araujo  <img src="https://media.giphy.com/media/em3xOyQhozmJfD
 ##
   
 <div align="center">
-  ![Snake animation](https://github.com/ojuaragabriel/ojuaragabriel/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 </div>
   
