@@ -5,15 +5,15 @@ Hello I'm Gabriel Araujo  <img src="https://media.giphy.com/media/em3xOyQhozmJfD
 
 - <div align="center">
   <a href="https://github.com/ojuaragabriel">
-  <img align="left"  width="54%"  src="https://github-readme-stats.vercel.app/api?username=ojuaragabriel&show_icons=true&theme=radical " />
+  <img align="left"  width="55%"  src="https://github-readme-stats.vercel.app/api?username=ojuaragabriel&show_icons=true&theme=radical " />
   <img align="left" width="31.2%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ojuaragabriel&layout=compact &theme=radical" />
 </div>
  
 <div align="center">
   <div style="display: inline_block"><br>
-  <img align="center" alt="Gaab-Js" height="30" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Gaab-HTML" height="30" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Gaab-CSS" height="30" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Gaab-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Gaab-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Gaab-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
   
 ##
