@@ -27,7 +27,7 @@ Hello I'm Gabriel Araujo  <img src="https://media.giphy.com/media/em3xOyQhozmJfD
   
   </div>
    
- 
+
 ##
   
 <div align="center">
