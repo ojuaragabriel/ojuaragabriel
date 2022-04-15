@@ -2,7 +2,7 @@
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 Hello I'm Gabriel Araujo  <img src="https://media.giphy.com/media/em3xOyQhozmJfDlGRB/giphy.gif" width="30">
 </h1>
-
+ 
 - <div align="center">
   <a href="https://github.com/ojuaragabriel">
   <img align="left"  width="59%"  src="https://github-readme-stats.vercel.app/api?username=ojuaragabriel&show_icons=true&theme=radical " />
