@@ -9,7 +9,7 @@ Hello I'm Gabriel Araujo  <img src="https://media.giphy.com/media/em3xOyQhozmJfD
   <img align="left" width="34.17%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ojuaragabriel&layout=compact &theme=radical" />
 </div> 
   
-<div align="center">
+<div align="center"> 
   <div style="display: inline_block"><br>
   <img align="center" alt="Gaab-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Gaab-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
