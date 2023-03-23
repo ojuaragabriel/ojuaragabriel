@@ -26,7 +26,7 @@ Hello I'm Gabriel Araujo  <img src="https://media.giphy.com/media/em3xOyQhozmJfD
   <a href="https://www.linkedin.com/in/gabriel-cerqueira-araujo-de-carvalho-042b3b138/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   
   </div>
-    
+     
 ##
   
 <div align="center">
