@@ -6,7 +6,7 @@ Hello I'm Gabriel Araujo  <img src="https://media.giphy.com/media/em3xOyQhozmJfD
 - <div align="center">
   <a href="https://github.com/ojuaragabriel"> 
   <img align="left"  width="59%"  src="https://github-readme-stats.vercel.app/api?username=ojuaragabriel&show_icons=true&theme=dark#gh-dark-mode-only)" />
-  <img align="left" width="34.17%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ojuagabriel&layout=compact)](https://github.com/ojuaragabriel/github-readme-stats)" />
+  <img align="left" width="34.17%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)" />
 </div>
   
 <div align="center"> 
