@@ -1,8 +1,8 @@
 Hello, I'm Gabriel Araujo 👋
 <div align="center">
   <a href="https://github.com/ojuaragabriel"> 
-    <img align="center" width="50%" src="https://github-readme-stats.vercel.app/api?username=ojuaragabriel&show_icons=true&theme=dark#gh-dark-mode-only" />
-    <img align="center" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ojuaragabriel&theme=dark#gh-dark-mode-only&hide_progress=true" />
+    <img align="center" width="59%" src="https://github-readme-stats.vercel.app/api?username=ojuaragabriel&show_icons=true&theme=dark#gh-dark-mode-only" />
+    <img align="center" width="34.17%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ojuaragabriel&theme=dark#gh-dark-mode-only&hide_progress=true" />
   </a>
 </div>
 Contact Me
