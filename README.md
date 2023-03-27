@@ -2,7 +2,7 @@ Hello, I'm Gabriel Araujo 👋
 <div align="center">
   <a href="https://github.com/ojuaragabriel"> 
     <img align="center" width="59%" src="https://github-readme-stats.vercel.app/api?username=ojuaragabriel&show_icons=true&theme=dark#gh-dark-mode-only" />
-    <img align="center" width="36%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ojuaragabriel&theme=dark#gh-dark-mode-only&hide_progress=true" />
+    <img align="center" width="32%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ojuaragabriel&theme=dark#gh-dark-mode-only&hide_progress=true" />
   </a>
 </div>
 Contact Me
