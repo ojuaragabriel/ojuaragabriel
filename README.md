@@ -1,4 +1,5 @@
-Hello, I'm Gabriel Araujo 👋
+ Hello, I'm Gabriel Araujo 👋
+
 <div align="center">
   <a href="https://github.com/ojuaragabriel"> 
     <img align="center" width="60.6%" src="https://github-readme-stats.vercel.app/api?username=ojuaragabriel&show_icons=true&theme=dark#gh-dark-mode-only" />
