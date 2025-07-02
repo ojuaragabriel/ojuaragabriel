@@ -51,7 +51,7 @@
 
 ---
 
-### 🌐 Conecte-se Comigo!
+### 🌐 Contato!
 
 <p align="center">
   Estou sempre aberto a novas conexões e oportunidades. Sinta-se à vontade para me contatar:
