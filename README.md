@@ -72,7 +72,7 @@
 ---
 
 <div align="center">
-  <img src="https://github.com/ojuaragabriel/ojuaragabriel/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/ojuaragabriel/ojuaragabriel/output/dist/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
 <p align="center">
