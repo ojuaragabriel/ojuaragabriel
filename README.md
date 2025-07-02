@@ -21,7 +21,7 @@
 
 ### 📊 Minhas Estatísticas no GitHub
 
-<div align="center">Add commentMore actions
+<div align="center">
   <a href="https://github.com/ojuaragabriel">
     <img align="center" width="400px" src="https://github-readme-stats.vercel.app/api?username=ojuaragabriel&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub de Gabriel Arajo" />
     <img align="center" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ojuaragabriel&theme=dark&layout=compact&hide_progress=true" alt="Linguagens Mais Usadas por Gabriel Arajo" />
