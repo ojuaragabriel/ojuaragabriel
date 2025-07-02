@@ -71,9 +71,11 @@
 
 ---
 
-**
-  <img src="https://raw.githubusercontent.com/ojuaragabriel/ojuaragabriel/output/snake.svg" alt="Snake animation" />
-**
+###
+
+<img src="https://raw.githubusercontent.com/etwatanabe/etwatanabe/output/snake.svg" alt="Snake animation" />
+
+###
 
 <p align="center">
   Desenvolvido com ❤️ por Gabriel Araujo
