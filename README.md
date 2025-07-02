@@ -5,9 +5,9 @@
 <h1 align="center">Olá, eu sou o Gabriel Araujo 👋</h1>
 
 <p align="center">
-  Desenvolvedor apaixonado por criar soluções e aprender constantemente. 
-  Atualmente, estou focado em **desenvolvimento de software** e adoro explorar novas tecnologias para transformar ideias em realidade.
-  Seja bem-vindo(a) ao meu espaço no GitHub!
+  Desenvolvedor focado em criar soluções e aprender constantemente. 
+  Atualmente, minhas habilidades estão voltadas para **testes com Robot e Appium Framework**, além do desenvolvimento de software em geral.
+  Bem-vindo(a) ao meu espaço no GitHub!
 </p>
 
 ---
@@ -16,7 +16,6 @@
 
 - 📚 **Estudando:** Novas tecnologias e aprimorando minhas habilidades em desenvolvimento.
 - 💡 **Interesses:** Diversas áreas da tecnologia e programação.
-- ✨ **Projetos:** Trabalhando em diferentes projetos de código.
 
 ---
 
@@ -71,6 +70,10 @@
 </div>
 
 ---
+
+<div align="center">
+  <img src="https://github.com/ojuaragabriel/ojuaragabriel/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
 
 <p align="center">
   Desenvolvido com ❤️ por Gabriel Araujo
