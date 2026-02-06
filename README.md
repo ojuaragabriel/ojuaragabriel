@@ -6,7 +6,7 @@
 
 <p align="center">
   Desenvolvedor focado em criar soluções e aprender constantemente. 
-  Atualmente, minhas habilidades estão voltadas para testes com Robot e Appium Framework, além do desenvolvimento de software em .net.
+  Atualmente, minhas habilidades estão voltadas para testes com Robot e Appium Framework, além do desenvolvimento de software em Ruby e .net.
   Bem-vindo(a) ao meu espaço no GitHub!
 </p>
 
