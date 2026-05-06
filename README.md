@@ -2,8 +2,8 @@
   <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="200" alt="Ilustração de um computador" />
   <h1>Olá, eu sou o Gabriel Araujo 👋</h1>
   <p>
-    Desenvolvedor focado em criar soluções eficientes e em constante aprendizado.<br>
-    Especialista em <b>Ruby on Rails</b> e no ecossistema <b>.NET</b>, com experiência sólida em testes automatizados (Robot e Appium).
+    Desenvolvedor de criar soluções eficientes e em constante aprendizado.<br>
+    Foco em <b>Ruby on Rails</b> e no ecossistema <b>.NET</b>.
   </p>
 </div>
 
@@ -11,17 +11,16 @@
 
 ### 🚀 Sobre mim
 
-*   📚 **Estudos:** Aprofundando conhecimentos em arquitetura de software e novas tecnologias.
-*   💡 **Foco Atual:** Desenvolvimento Full Stack e otimização de fluxos de trabalho com IA.
-*   🛠️ **Tech Stack:** Ruby, C#, .NET, PostgreSQL, Robot Framework e Appium.
+*   💻 **Atuação:** Desenvolvimento de software com Ruby e C#.
+*   🧪 **QA & Testes:** Experiência sólida com Robot Framework e Appium.
 
 ---
 
 ### 📊 Estatísticas no GitHub
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=ojuaragabriel&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ojuaragabriel&theme=dark&layout=compact&hide_progress=true" alt="Linguagens mais usadas" />
+  <!-- Estatísticas Gerais usando o mirror estável gh-stats -->
+  <img height="180" src="https://gh-stats.com/api?username=ojuaragabriel&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
 </div>
 
 ---
