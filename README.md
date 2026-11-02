@@ -4,7 +4,7 @@
   <p>
     Desenvolvedor de criar soluções eficientes e em constante aprendizado.<br>
     Foco em <b>Ruby on Rails</b> e no ecossistema <b>.NET</b>.
-  </p>
+  </p> 
 </div>
 
 ---
